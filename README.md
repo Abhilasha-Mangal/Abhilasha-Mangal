@@ -23,13 +23,13 @@
 
 ## 👩‍🔬 About Me
 
-Senior Data Scientist and AI professional with **10+ years of IT experience** and **8+ years in Research & Development**.
+Senior Data Scientist and AI professional with **12+ years of IT experience** and **10+ years in Research & Development**.
 
 Currently pursuing a **PhD in Artificial Intelligence at Nirma University**.
 
-Passionate about bridging academic research and enterprise innovation through Generative AI, LLMs, RAG, NLP, Healthcare AI and intelligent automation.
+Passionate about bridging academic research and enterprise innovation through Generative AI, LLMs, RAG, NLP, Healthcare AI, and intelligent automation.
 
-**Focus:** Research-driven innovation, scalable AI systems and real-world business impact.
+**Focus:** Research-driven innovation, scalable AI systems, and real-world business impact.
 
 </td>
 <td width="42%" valign="top">
@@ -38,8 +38,8 @@ Passionate about bridging academic research and enterprise innovation through Ge
 
 | Expertise | Experience |
 |---|---|
-| 💼 IT Industry | 10+ Years |
-| 🔬 Research & Development | 8+ Years |
+| 💼 IT Industry | 12+ Years |
+| 🔬 Research & Development | 10+ Years |
 | 🎓 Academic | PhD Scholar |
 | ⚡ Automation Impact | 90% reported reduction in manual work |
 
@@ -117,118 +117,6 @@ Interested in applying AI and Generative AI to healthcare challenges through:
 
 **🤝 Collaboration interests:** Healthcare organizations, pharmaceutical companies, medical researchers, digital health startups and interdisciplinary AI research teams.
 
----
-
-## 🚀 Featured Project Portfolio
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 RAG From Scratch
-<sup>PERSONAL PROJECT</sup>
-
-RAG fundamentals and implementation exploration.
-
-`RAG` `LLMs` `Retrieval`
-
-[↗ Repository](https://github.com/Abhilasha-Mangal/RAG-From-Scratch)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 MetaGen Blended RAG
-<sup>RESEARCH & ENGINEERING</sup>
-
-Metadata enrichment, semantic retrieval and hybrid search for domain-focused RAG.
-
-`BM25` `KNN` `RAG`
-
-[↗ Repository](https://github.com/ibm-self-serve-assets/MetaGen-Blended-RAG)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ SuperKnowa
-<sup>ENTERPRISE AI</sup>
-
-Modular enterprise RAG framework with reusable retrieval and evaluation components.
-
-`Enterprise AI` `RAG` `watsonx`
-
-[↗ Repository](https://github.com/ibm-self-serve-assets/SuperKnowa)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 HR Screening Agent
-<sup>AGENTIC AI</sup>
-
-AI-powered hiring and resume-screening workflows.
-
-`Agentic AI` `NLP` `Automation`
-
-[↗ Repository](https://github.com/ibm-self-serve-assets/hr-screening-agent)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 Blended RAG
-<sup>INFORMATION RETRIEVAL</sup>
-
-Semantic and hybrid query-based retrieval approaches.
-
-`Semantic Search` `Hybrid RAG`
-
-[↗ Repository](https://github.com/ibm-self-serve-assets/Blended-RAG)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Watson NLP
-<sup>NATURAL LANGUAGE PROCESSING</sup>
-
-NLP integrations and language intelligence examples.
-
-`NLP` `NLU` `watsonx`
-
-[↗ Repository](https://github.com/ibm-self-serve-assets/Watson-NLP)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ Watson Speech
-<sup>SPEECH AI</sup>
-
-Speech technology and integration examples.
-
-`Speech AI` `Speech Processing`
-
-[↗ Repository](https://github.com/ibm-self-serve-assets/Watson-Speech)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 More Projects
-
-Explore additional research, experiments and engineering contributions.
-
-[↗ All Repositories](https://github.com/Abhilasha-Mangal?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<sub>Attribution: RAG From Scratch is a personal repository. Other listed projects are IBM organization repositories involving collaborative work.</sub>
-
----
-
 ## 📚 Research & Publications
 
 | Publication | Venue | Year |
@@ -247,41 +135,6 @@ Explore additional research, experiments and engineering contributions.
 [![Google Scholar](https://img.shields.io/badge/🎓%20Research%20Profile-Google%20Scholar-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=Dkwi3s4AAAAJ&hl=en)
 
 </div>
-
----
-
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education
-
-**PhD in Artificial Intelligence**
-
-Nirma University
-
-2022 – Present
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 Selected Certifications
-
-- IBM watsonx Essentials — 2024
-- watsonx.ai Technical Sales Advanced — 2024
-- Generative AI for Code — 2024
-- watsonx.governance — 2024
-- IBM Recognized Speaker — 2023
-- Watson Discovery Foundations — 2023
-- Oracle Certified Professional, Java SE 6 — 2012
-- NLP with Python — 2020
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 💡 Professional Impact & Writing
